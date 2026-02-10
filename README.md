@@ -29,4 +29,10 @@ https://arjun-ind.github.io/responsive-restaurant-website/
 - Hosting a website using GitHub Pages
 - Writing clean and reusable CSS
 
+## 🧠 Limitations & Possible Enhancements
+- No JavaScript-based interactivity
+- Menu data is static
+- Layout could be rebuilt using CSS Grid
+
+
 ## 📁 Project Structure
