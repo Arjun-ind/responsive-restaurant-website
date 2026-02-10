@@ -1,38 +1,43 @@
-# Responsive Restaurant Website 🍽️
+# Responsive Restaurant Website
 
-A responsive static restaurant website built using **HTML, CSS, Bootstrap, and Flexbox**.  
-This project focuses on layout structuring, responsiveness, and clean UI design.
+A responsive static restaurant website built using HTML, CSS, Bootstrap, and Flexbox.  
+The project focuses on layout structuring, responsiveness, and clean UI design.
 
-## 🔗 Live Demo
+🔗 **Live Demo**  
 https://arjun-ind.github.io/responsive-restaurant-website/
 
+---
+
 ## 🛠️ Technologies Used
-- HTML5
-- CSS3
-- Bootstrap 4
-- Flexbox
-- Font Awesome
+- HTML5  
+- CSS3  
+- Bootstrap 4  
+- Flexbox  
+- Font Awesome  
+
+---
 
 ## 📱 Features
-- Fully responsive design (mobile, tablet, desktop)
+- Fully responsive layout (mobile, tablet, desktop)
 - Fixed navigation bar
 - Hero banner section
-- Explore menu cards
-- Delivery & payment section
-- Follow us (social icons)
-- Clean footer section
+- Menu cards section
+- Delivery & payment information section
+- Social media links
+- Clean footer layout
+
+---
 
 ## 🎯 What I Learned
-- Building responsive layouts using Bootstrap grid
+- Structuring multi-section webpages
+- Building responsive layouts using Bootstrap utilities
 - Using Flexbox for alignment and spacing
-- Structuring a multi-section webpage
-- Hosting a website using GitHub Pages
-- Writing clean and reusable CSS
+- Writing clean, reusable CSS
+- Hosting static websites using GitHub Pages
+
+---
 
 ## 🧠 Limitations & Possible Enhancements
 - No JavaScript-based interactivity
-- Menu data is static
-- Layout could be rebuilt using CSS Grid
-
-
-## 📁 Project Structure
+- Content is fully static
+- Layout could be rebuilt using CSS Grid for comparison
